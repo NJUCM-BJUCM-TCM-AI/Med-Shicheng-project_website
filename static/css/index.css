@@ -793,14 +793,14 @@ a:focus {
   display: inline-flex;
   align-items: center;
   max-width: 900px;       /* 控制行宽，看着像一句“横幅” */
-  font-size: 1.05rem;
-  font-weight: 500;
+  font-size: 1.3rem;
+  font-weight: 600;
   color: #111827;         /* 深一点的文字颜色 */
 }
 
 .hero-highlight .icon {
   margin-right: 0.5rem;
   color: #f59e0b;         /* trophy 金色 */
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 

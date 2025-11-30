@@ -759,13 +759,15 @@ a:focus {
   .section-row .section-text {
     flex: 0 0 50%;
     max-width: 50%;
-    padding-right: 0.5rem;
+    padding-right: 0;
+    padding-left: 0;
   }
 
   .section-row .section-figure {
     flex: 0 0 50%;
     max-width: 50%;
-    padding-left: 0.5rem;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 

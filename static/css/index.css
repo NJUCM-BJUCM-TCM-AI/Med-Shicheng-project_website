@@ -803,4 +803,17 @@ a:focus {
   color: #f59e0b;         /* trophy 金色 */
   font-size: 1.3rem;
 }
+.hero-highlight .icon-text {
+  display: inline-flex;
+  align-items: center;
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #111827;
+}
+@media screen and (min-width: 1024px) {
+  .hero-highlight .icon-text {
+    white-space: nowrap;   /* 不要换行 */
+    max-width: none;       /* 不再限制成 900px */
+  }
+}
 

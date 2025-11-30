@@ -778,7 +778,7 @@ a:focus {
   display: block;
 }
 .section .container.is-max-desktop {
-  max-width: 1150px;  /* 你可以试 1100 / 1200 自己调 */
+  max-width: 1200px;
 }
 
 
